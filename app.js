@@ -1,3 +1,4 @@
+//dirar
 // Team Shop — Collaborative JS Project
 // Covers: DOM (Ch10), Events (Ch11), Arrays/Loops (Ch12), Forms & RegEx, If/Else, Functions
 
@@ -24,6 +25,7 @@ const qtyInput  = document.getElementById('itemQty');
 const errorBox  = document.getElementById('formError');
 const pills     = document.querySelectorAll('.pill');
 const searchBox = document.getElementById('searchBox');
+
 
 let currentFilter = 'all';
 let searchQuery = '';
