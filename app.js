@@ -1,4 +1,4 @@
-// Team Shop — Collaborative JS Project
+// ahmed
 // Covers: DOM (Ch10), Events (Ch11), Arrays/Loops (Ch12), Forms & RegEx, If/Else, Functions
 
 // ---------- Data (arrays of objects) ----------
